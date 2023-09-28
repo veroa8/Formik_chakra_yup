@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "nombre": "carro volador",
+      "precio": 4000000,
+      "categorias": "vehiculos",
+      "descripcion": "lindooo",
+      "marca": "tesla",
+      "fechaVen": "24/09/4023",
+      "id": 1
+    },
+    {
+      "nombre": "este si si si",
+      "precio": 2000,
+      "categorias": "vfdbfb",
+      "descripcion": "",
+      "marca": "fdgdfg",
+      "fechaVen": "2023-09-29",
+      "id": 2
+    }
+  ]
+}
